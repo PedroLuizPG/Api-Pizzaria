@@ -1,7 +1,7 @@
 # 🍕 API - Pizzaria
 
 API REST para gerenciamento de pedidos, produtos, categorias e usuários de uma pizzaria.  
-Desenvolvida em **Node.js** com **Express** e **TypeScript**, utilizando autenticação via **JWT**.
+Desenvolvida em **Node.js** com **Express** e **TypeScript** e **PostgreSQL**, utilizando autenticação via **JWT**.
 
 ---
 
