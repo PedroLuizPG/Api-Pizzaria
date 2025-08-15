@@ -11,6 +11,7 @@ Desenvolvida em **Node.js** com **Express** e **TypeScript** e **PostgreSQL**, u
 - **Express**
 - **TypeScript**
 - **Prisma** (ORM)
+- **PostgreSQL**
 - **JWT** (Autenticação)
 - **Multer** (Upload de arquivos)
 - **bcrypt** (Criptografia de senhas)
